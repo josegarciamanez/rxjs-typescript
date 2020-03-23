@@ -7,3 +7,12 @@
     width: 100vw;
     height: 100vh;
 }
+h1 {
+    width: 10%;
+}
+.caja1 {
+    width: 100px;
+    height: 2px;
+    background: rgb(233, 233, 233);
+    border-radius: 3px;
+}
